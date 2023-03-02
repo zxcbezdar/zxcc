@@ -1,0 +1,15 @@
+C:\Users\Макс\source\repos\resh2\resh2\obj\Debug\net6.0\resh2.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\resh2\resh2\obj\Debug\net6.0\resh2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\resh2\resh2\obj\Debug\net6.0\resh2.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\resh2\resh2\obj\Debug\net6.0\resh2.AssemblyInfo.cs
+C:\Users\Макс\source\repos\resh2\resh2\obj\Debug\net6.0\resh2.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\resh2\resh2\bin\Debug\net6.0\resh2.exe
+C:\Users\Макс\source\repos\resh2\resh2\bin\Debug\net6.0\resh2.deps.json
+C:\Users\Макс\source\repos\resh2\resh2\bin\Debug\net6.0\resh2.runtimeconfig.json
+C:\Users\Макс\source\repos\resh2\resh2\bin\Debug\net6.0\resh2.dll
+C:\Users\Макс\source\repos\resh2\resh2\bin\Debug\net6.0\resh2.pdb
+C:\Users\Макс\source\repos\resh2\resh2\obj\Debug\net6.0\resh2.dll
+C:\Users\Макс\source\repos\resh2\resh2\obj\Debug\net6.0\refint\resh2.dll
+C:\Users\Макс\source\repos\resh2\resh2\obj\Debug\net6.0\resh2.pdb
+C:\Users\Макс\source\repos\resh2\resh2\obj\Debug\net6.0\resh2.genruntimeconfig.cache
+C:\Users\Макс\source\repos\resh2\resh2\obj\Debug\net6.0\ref\resh2.dll
